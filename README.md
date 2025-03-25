@@ -1,6 +1,6 @@
-## Taustaa JODAn suorittajille
+## Taustaa DATATIEn suorittajille
 
-Tämä työkirja on ollut käytössä Johdanto datatieteeseen -opintojakson harjoitustyön runkona jo usean vuoden ajan. Työkirjaa taustoittava blogikirjoitus poistui verkosta ennen kevään 2021 toteutuskertaa, mutta löytyy edelleen Wayback Machinen arkistoista: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://web.archive.org/web/20190807011959/https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/). 
+Tämä työkirja on ollut käytössä Johdanto datatieteeseen -opintojakson harjoitustyön runkona jo usean vuoden ajan ja käyttö jatkuu Datatiede tietojohtamisessa -opintojaksolla. Työkirjaa taustoittava blogikirjoitus poistui verkosta ennen kevään 2021 toteutuskertaa, mutta löytyy edelleen Wayback Machinen arkistoista: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://web.archive.org/web/20190807011959/https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/). 
 
 Kirjastopäivityksistä johtuneet virheet korjattiin  esimerkkikoodiin keväällä 2022. Vertailun helpottamiseksi koodi on kytketty San Franciscon Airbnb-asuntotarjontaa esimerkkianalyysin toteutushetkellä edustavaan dataan. Esimerkki on haaroitettu (<code>fork</code>) suoraan alkuperäisestä koodikannasta versionhallinnan helpottamiseksi. Lisäksi projektille on nyt luotu erillinen virtuaaliympäristö tulevien yhteensopivuusongelmien minimoimiseksi.
 
